@@ -3,6 +3,7 @@ Week 1 Assignment — ML Foundations
 This repository contains my Week 1 assignment notebook .
 
 Topics Covered
+
 Part 1 — Python Fundamentals
 Data types
 Control flow
